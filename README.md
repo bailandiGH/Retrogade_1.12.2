@@ -1,3 +1,5 @@
+#added 2026/11/15: I'm too lazy to say more, just know that there's nothing valuable here and this Minecraft modding project is basically abandoned.
+
 ## TemplateDevEnv
 _For Kotlin see [TemplateDevEnvKt](https://github.com/CleanroomMC/TemplateDevEnvKt)_
 
